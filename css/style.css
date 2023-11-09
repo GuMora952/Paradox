@@ -1,0 +1,20 @@
+* {
+    color: white;
+    background-color: black;
+    font-family: "Comic Sans MS";
+}
+
+
+
+.minos {
+    position: fixed;
+    margin-top: 45%;
+    margin-bottom: auto;
+    height: 500px;
+}
+
+.circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
